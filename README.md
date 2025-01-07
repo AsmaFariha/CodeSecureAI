@@ -1,4 +1,6 @@
 # codeSecureAI
+Asma Fariha, Md. Mahin Arafat,
+Ontario Tech University
 
 **codeSecureAI** is a cloud-based application designed to detect security vulnerabilities in source code using large language models (LLMs) like OpenAI's ChatGPT. This project leverages the power of AI to analyze source code across multiple programming languages and identify potential security threats, making it accessible for both programmers and non-programmers.
 
