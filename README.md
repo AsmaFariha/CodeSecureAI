@@ -1,5 +1,5 @@
 # codeSecureAI
-[Asma Fariha](https://github.com/AsmaFariha)
+[Asma Fariha](https://github.com/AsmaFariha),
 [Md. Mahin Arafat](https://github.com/mahin12)
 Ontario Tech University
 
